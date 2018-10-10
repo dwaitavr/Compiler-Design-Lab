@@ -56,6 +56,11 @@ iv) Write a program to implement arithmetic calculator.
 
 5. Write a program to simulate `FIRST` and `FOLLOW` of any given grammar.
 
+**Steps To Compile**
+* Save file as `pgm_name.c .
+* Compile it using gcc by typing `gcc pgm_name.c
+* Execute the `./a.out` file.
+
 Test Case and Sample Output :
 
 Enter the no of prooductions:
