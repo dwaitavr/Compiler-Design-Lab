@@ -52,9 +52,46 @@ iv) Write a program to implement arithmetic calculator.
 * Compile it using gcc by typing `gcc pgm_name.c
 * Execute the `./a.out` file.
 
-### To Complete
+### Day 5
 
 5. Write a program to simulate `FIRST` and `FOLLOW` of any given grammar.
+
+Test Case & Sample Output :
+
+Enter the no of prooductions:
+5
+Enter the productions:
+S=AbCd
+A=Cf
+A=a
+C=gE
+E=h
+
+Enter the elemets whose fisrt & follow is to be found:S
+First(S)={ga}
+Follow(S)={$}
+
+Continue(0/1)?1
+
+Enter the elemets whose fisrt & follow is to be found:A
+First(A)={ga}
+Follow(A)={b}
+
+Continue(0/1)?1
+
+Enter the elemets whose fisrt & follow is to be found:C
+First(C)={g}
+Follow(C)={df}
+
+Continue(0/1)?1
+
+Enter the elemets whose fisrt & follow is to be found:E
+First(E)={h}
+Follow(E)={df}
+
+Continue(0/1)?0
+
+### To Complete
 
 6. Write program to implement LL (1) parser
 
