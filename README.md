@@ -96,10 +96,10 @@ Follow(E)={df}
 
 Continue(0/1)?0
 
-### To Complete
+
 
 6. Write program to implement LL (1) parser
-
+### To Complete
 7. Write program to implementation of Operator precedence parsing 
 
 8. Write a program to perform constant propagation.
