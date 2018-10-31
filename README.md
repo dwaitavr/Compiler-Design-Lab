@@ -26,7 +26,7 @@ ii) Write a program to list the identifiers from a given C program.
 
 3. Write program to design parser for arithmetic expressions using YACC
 
-i) Write a program to check the syntax of switch statement in C.
+i) Write a program to check the syntax of switch sta in C.
 
 ii) Program to recognize a valid arithmetic expression that uses operator `+, – , * and /`.
 
