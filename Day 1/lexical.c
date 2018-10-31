@@ -11,7 +11,7 @@ void main()
 	f=fopen("input.txt","r");
 	while(flag!=1)
 	{	
-		switch(state)
+		switch(state
 		{
 			case 0:
 				ch=fgetc(f);
